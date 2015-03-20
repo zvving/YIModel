@@ -1,3 +1,6 @@
+The project was Deprecated!   
+Please use the better project that is [JsonModel](https://github.com/icanzilb/JSONModel).
+
 YIModel
 =======
 
